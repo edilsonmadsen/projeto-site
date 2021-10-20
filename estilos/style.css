@@ -5,12 +5,12 @@
 }
 
 body {
-    background-color: rgb(140, 87, 190);
+    background-color: rgb(87, 144, 190);
 
 }
 
 main {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     width: 500px;
     margin: auto;
     padding: 10px;
